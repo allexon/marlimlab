@@ -1,0 +1,35 @@
+**** muito legal a base de dados de cep ****
+https://achacep.com.br/
+https://www.cepaberto.com/downloads/new
+
+**** Converte Imagem para Base 64 ****
+https://www.npmjs.com/package/react-file-base64
+https://imagemagick.org/index.php
+
+**** COOKIES ****
+https://pt.stackoverflow.com/questions/197560/evitar-que-cookies-sejam-vistos-obtidos-com-javascript
+https://blog.codinghorror.com/protecting-your-cookies-httponly/
+---- Rahul Ahire ------> https://www.youtube.com/watch?v=a5Krfkfl9MM
+
+**** CRIPTOGRAFIA NATIVA ****
+https://stackoverflow.com/questions/72236216/web-crypto-api-fails-to-verify-signature-after-converting-from-string
+
+**** PIX ******
+https://gerencianet.com.br/
+https://openpix.com.br/
+https://www.ewally.com.br/
+https://www.softwareexpress.com.br/pt/solucoes/SiTef/pix/
+https://dock.tech/
+
+**** mongodb ******
+https://www.youtube.com/watch?v=9cWm74DteMQ
+
+**** INTERESSANTE SERVIDOR HTTPS ****
+https://caddyserver.com/
+
+**** PASSWORDLESS MONGODB ****
+https://www.youtube.com/watch?v=gFJ_vhodATY
+
+**** Pre-validação senha *****
+https://www.youtube.com/watch?v=oLaa_D_3H6s
+

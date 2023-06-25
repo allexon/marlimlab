@@ -1,0 +1,14 @@
+--- encontrar icones ----
+https://www.svgrepo.com/
+
+--- gerador de svg para font ----
+https://www.npmjs.com/package/icon-font-generator
+
+
+-- comando para gerar icones ----
+icon-font-generator *.svg -o icons-font
+
+--- GALERIA DE ICONES QUE FICOU LEGAL NA GERAÇÃO ----
+https://fonts.google.com/icons
+https://icofont.com/icons
+https://iconscout.com/unicons/explore/line

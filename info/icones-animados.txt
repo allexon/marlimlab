@@ -1,0 +1,5 @@
+*** UTILIZAR ICONES ANIMADOS *****
+https://lottiefiles.com/
+
+******** como utilizar outra forma de icones que já esta no projeto *********
+import { FaBeer } from 'react-icons/fa';

@@ -1,0 +1,2 @@
+https://www.aleksandrhovhannisyan.com/blog/react-lazy-dynamic-imports/
+https://codesandbox.io/s/react-lazy-imports-demo-5z40f?file=/src/App.tsx:465-467

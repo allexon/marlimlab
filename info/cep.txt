@@ -1,0 +1,44 @@
+---- Onde pegar os endereços para organizar seu banco de dados de cep ---
+https://achacep.com.br/
+http://cep.la/sobre
+https://codigo-postal.org/
+https://cepbrasil.org/
+
+**************************************************************************************************************************** 
+**                                                                                                                        **
+**                                          Pegar latitude e longitude passando                                           **
+**                                                                                                                        **   
+**************************************************************************************************************************** 
+** https://medium.com/data-hackers/geocodifica%C3%A7%C3%A3o-sem-google-maps-api-parte-i-f4e9e32c386
+**
+** -- ENVIA ISTO ->
+** https://www.openstreetmap.org/search?query=avenida+alpheu+ribeiro+carapina-grande-serra+es+brasil
+** 
+** -- RETORNO ISTO ->
+** https://www.openstreetmap.org/search?query=avenida+alpheu+ribeiro+carapina-grande-serra+es+brasil#map=16/-20.2257/-40.2774
+
+OUTRO EXEMPLO OPEN STREET map
+https://nominatim.openstreetmap.org/search?q=81+carapina-grande+rua,+quinze&format=json&polygon_geojson=1&addressdetails=1
+
+
+**** IBGE ****
+https://servicodados.ibge.gov.br/api/docs/malhas?versao=3#api-Malhas-municipiosIdGet
+
+***** CHAVE ******
+https://app.brasilaberto.com/
+https://docs.brasilaberto.com/v1/districts
+KDG34JsnIX2WzcKwbn6SHk04gOtWxG5x5tSDmX8Bi8iXusP6TIxR7IFmyo0DY9gi
+
+**** OBTER TODAS RUAS NO IIBGE ******************
+https://www.ibge.gov.br/geociencias/downloads-geociencias.html?caminho=recortes_para_fins_estatisticos/malha_de_setores_censitarios/censo_2010/base_de_faces_de_logradouros_versao_2021
+
+**** MONTAR ROTA DA ATENDIMENTO DA REGIÃO ***
+yarn add react-leaflet leaflet
+yarn dev @types/leaflet
+https://www.youtube.com/watch?v=VcelY6ulUzM
+https://www.youtube.com/watch?v=bIUbAVvqwjg
+
+https://www.youtube.com/watch?v=urOfcs7n4bA
+
+// Link Ref para montar endereços
+https://nominatim.openstreetmap.org/search?q=Espirito+Santo&format=json

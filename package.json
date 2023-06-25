@@ -1,0 +1,34 @@
+{
+  "name": "server-marlimlab",
+  "version": "1",
+  "description": "Multi-Tenant para gesestão de Multi-Empresas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/server.js --exec babel-node"
+  },
+  "keywords": [],
+  "author": "Alexon Moreira",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "emailjs": "^4.0.1",
+    "emailjs-com": "^3.2.0",
+    "express": "^4.18.2",
+    "heml": "^0.0.1",
+    "mongodb": "^4.11.0",
+    "mongoose": "^7.1.0",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.3",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.2",
+    "@babel/node": "^7.20.2",
+    "@babel/preset-env": "^7.20.2"
+  }
+}
